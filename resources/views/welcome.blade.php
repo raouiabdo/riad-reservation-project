@@ -1,1 +1,1 @@
-hikello
+Thiq etdiy
