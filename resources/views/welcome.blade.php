@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container text-center mt-5">
-        <h1 class="display-4">Hello, bienvenue sur notre site!</h1>
+        <h1 class="display-4">Hello, bienvenue sur notre site hi!</h1>
 
         <!-- Boutons de connexion et d'inscription -->
         <div class="mt-4">
