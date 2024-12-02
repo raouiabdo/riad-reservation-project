@@ -10,7 +10,7 @@
     <div class="container text-center mt-5">
         <h1 class="display-4">Hello, bienvenue sur notre site hi!</h1>
 
-        <!-- Boutons de connexion et d'inscription TEST-->
+        <!-- Boutons de connexion eDDDDt d'inscription TEST-->
         <div class="mt-4">
             <a href="{{ route('login') }}" class="btn btn-primary btn-lg mx-2">Se connecter</a>
             <a href="{{ route('register') }}" class="btn btn-secondary btn-lg mx-2">S'inscrire</a>
